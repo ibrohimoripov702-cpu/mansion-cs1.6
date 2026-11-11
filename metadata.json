@@ -1,0 +1,6 @@
+{
+  "name": "iPhone 13 Green 3D Interactive Studio",
+  "description": "An interactive, photorealistic 3D model and showcase studio for the Apple iPhone 13 in signature Green, featuring authentic dimensions, diagonal dual cameras, flat aluminum edges, ceramic shield, interactive exploded view, and studio lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
